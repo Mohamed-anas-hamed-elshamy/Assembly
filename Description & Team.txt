@@ -5,4 +5,4 @@ Team:-
 
 Description:-
 
-هي عباره عن لعبه متاهه تكون فيها العلامه الخضراء و تسير خلال المتاهه للوصول الي نقطه النهايه و خلال الرحله ستواجه اعداء وهم علامات باللون البرتقالي ويجب تفاديهم و الوصول للناهيه وهي باللون الاحمر وعند ذلك تفوز في اللعبه
+It is a maze game in which the green mark is marked. You walk through the maze to reach the end point. During the journey, you will encounter enemies who are marked in orange, and you must avoid them and reach the end, which is marked in red, and then you win the game.
