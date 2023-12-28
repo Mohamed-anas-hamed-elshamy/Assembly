@@ -5,4 +5,6 @@ Team:-
 
 Description:-
 
-It is a maze game in which the green mark is marked. You walk through the maze to reach the end point. During the journey, you will encounter enemies who are marked in orange, and you must avoid them and reach the end, which is marked in red, and then you win the game.
+It is a maze game in which the green mark is marked. You walk through the maze to reach the end point. During the journey,
+you will encounter enemies who are marked in orange,
+and you must avoid them and reach the end, which is marked in red, and then you win the game.
